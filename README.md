@@ -6,3 +6,4 @@ Autors: **Veronika Kalniņa**
 - Nospied Run Python File.
 ## Licence
 MIT License ir atvērta programmatūras licence, kas ļauj programmatūru brīvi izmantot, kopēt un modifcēt.
+.md nav parasts teksta fails, jo tajā var izmantot Markdown formatējumu, piemēram, treknrakstu un virsrakstus.
