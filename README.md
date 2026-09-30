@@ -1,4 +1,5 @@
 # Programmēšana - pamatkurss.
+**Svarīgi**
 Autors: **Veronika Kalniņa**
 ## Kā palaist.
 - Atver "sveiciens.py".
