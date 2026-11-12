@@ -1,0 +1,16 @@
+print(17 / 5)
+print(17 // 5)
+print(17 % 5)
+print(2 ** 3)
+mantas = int(input("Cik mantu ir? "))
+somas_ietilpiba = int(input("Cik mantu ietilpst somā? "))
+pilnassomas= mantas // somas_ietilpiba
+pari = mantas % somas_ietilpiba
+print(pilnassomas)
+print(pari)
+print(f"Vajag {pilnassomas} somas un {pari} mantas paliks pāri.")
+videji = mantas / somas_ietilpiba
+print(f"Vidēji {videji} somas")
+limenis = int(input("Varoņa līmenis:"))
+speks = limenis ** 2
+print(f"Varonim ar {limenis}. līmeni spēks ir {speks}!")
