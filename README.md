@@ -40,7 +40,7 @@ Konstrukcija `:.1f` figūriekavās (piemēram, `{videji:.1f}`) **noapaļo decim�
 Kad līmenis pieaug divas reizes (piemēram, no 5 uz 10), spēks pieaug **4 reizes** (no 25 uz 100). 
 Tas ir tāpēc, ka formula izmanto kāpināšanu kvadrātā ($2^2 = 4$). Ja līmeni dubulto ($2 \times \text{līmenis}$), tad spēks palielinās par $2^2$ reizēm jeb četrkāršojas.
 # Koda stils un komentāri
--Komentāri (# ): Dators tos ignorē, bet tie palīdz cilvēkiem saprast koda nolūku. Jāraksta tas, kāpēc kods kaut ko dara, nevis jāapraksta acīmredzamo.
--Snake Case: Python standarts Variables (mainīgo) nosaukumiem. Visi burti ir mazie un vārdus atdala ar apakšsvītru.
--PEP 8: Oficiālā Python stila rokasgrāmata. Viens no galvenajiem noteikumiem: vienmēr lieto atstarpes ap operatoriem.
--Docstrings (Dokumentācijas virknes) """ : Vairāku rindu komentāri faila sākumā vai funkcijās, lai aprakstītu kopējo mērķi un autorību. 
+*Komentāri (# ): Dators tos ignorē, bet tie palīdz cilvēkiem saprast koda nolūku. Jāraksta tas, kāpēc kods kaut ko dara, nevis jāapraksta acīmredzamo.
+*Snake Case: Python standarts Variables (mainīgo) nosaukumiem. Visi burti ir mazie un vārdus atdala ar apakšsvītru.
+*PEP 8: Oficiālā Python stila rokasgrāmata. Viens no galvenajiem noteikumiem: vienmēr lieto atstarpes ap operatoriem.
+*Docstrings (Dokumentācijas virknes) """ : Vairāku rindu komentāri faila sākumā vai funkcijās, lai aprakstītu kopējo mērķi un autorību. 
